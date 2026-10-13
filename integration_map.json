@@ -1,0 +1,15 @@
+{
+  "project_id": "afyaplus-module4-capstone",
+  "version_tag": "v1.4.0",
+  "integration_boundaries": {
+    "triage_api_layer": "main_pipeline.py",
+    "security_smoke_suite": "tests/test_security_smoke.py",
+    "performance_footprint": "scripts/measure_perf.py",
+    "data_fixtures_path": "fixtures/triage_messages_sample.jsonl",
+    "finops_analysis": "docs/cost_analysis.md"
+  },
+  "pinned_dependencies": {
+    "encoder_model": "sokonihub/lab-bow-v1@a4f1082c9e7b238",
+    "triage_llm": "openai/gpt-4o-mini@2026-10-11-snapshot"
+  }
+}
