@@ -16,7 +16,7 @@ This integrated capstone repository delivers a hardened, production-ready versio
 - **Week 10:** Operational health-poster data transfer policies mapped inside 'README.md'.
 
 ## Dataset
-- **fixtures/:** Standardized using `fixtures/triage_messages_sample.jsonl` which contains exactly **300 synthetic patient entries**. No external production environments were scraped.
+- **/:** Standardized using `/triage_messages_sample.jsonl` which contains exactly **300 synthetic patient entries**. No external production environments were scraped.
 
 ## Quick start
 Execute the automated test pyramid suite locally via standard terminal frameworks:
