@@ -1,15 +1,60 @@
 {
-  "project_id": "afyaplus-module4-capstone",
+  "project_id": "afyaplus-ai-health-operations-system-capstone",
   "version_tag": "v1.4.0",
-  "integration_boundaries": {
-    "triage_api_layer": "main_pipeline.py",
+  "sprint_tracking_reference": "sprint_board.json",
+  "peer_review_evidence": "review_log.md",
+  "week_reuse_evidence_matrix": {
+    "weeks_1_to_5_rag_fundamentals": {
+      "capability": "In-memory dictionary knowledge routing and local data containment",
+      "artifact_path": "main_pipeline.py",
+      "implementation_target": "execute_triage_router"
+    },
+    "week_6_triage_api": {
+      "capability": "Public type-safe web service layer with parameter validations",
+      "artifact_path": "main_pipeline.py",
+      "implementation_target": "app.post('/triage')"
+    },
+    "week_7_cost_and_mcp_logistics": {
+      "capability": "FinOps token controls and abstract localized tool role mappings",
+      "artifact_path": "docs/cost_analysis.md",
+      "implementation_target": "ROLE_MATRIX"
+    },
+    "week_8_version_pins": {
+      "capability": "Explicit configuration pinning to guarantee regression safety",
+      "artifact_path": "main_pipeline.py",
+      "implementation_target": "PINNED_MODELS"
+    },
+    "week_9_security_and_compliance": {
+      "capability": "Pre-model injection containment fields and credentials redaction",
+      "artifact_path": "tests/test_security_smoke.py",
+      "implementation_target": "test_real_redaction_and_hashing"
+    },
+    "week_10_multimodal_transfer_habits": {
+      "capability": "Non-mixing clinical partition rules and structured data inventory mappings",
+      "artifact_path": "fixtures/README.md",
+      "implementation_target": "data_inventory.json"
+    },
+    "week_11_performance_and_testing": {
+      "capability": "Pytest marker matrices and automated latency profile capture loops",
+      "artifact_path": "scripts/measure_perf.py",
+      "implementation_target": "perf_stub.json"
+    }
+  },
+  "system_integration_boundaries": {
+    "core_api_router": "main_pipeline.py",
+    "test_pyramid_configuration": "pytest.ini",
+    "unit_and_integration_tests": "tests/test_core_pipeline.py",
     "security_smoke_suite": "tests/test_security_smoke.py",
-    "performance_footprint": "scripts/measure_perf.py",
-    "data_fixtures_path": "fixtures/triage_messages_sample.jsonl",
-    "finops_analysis": "docs/cost_analysis.md"
+    "measured_performance_metrics": "perf_stub.json",
+    "synthetic_patient_dataset": "fixtures/triage_messages_sample.jsonl"
   },
   "pinned_dependencies": {
     "encoder_model": "sokonihub/lab-bow-v1@a4f1082c9e7b238",
     "triage_llm": "openai/gpt-4o-mini@2026-10-11-snapshot"
+  },
+  "compliance_framework_alignment": {
+    "statutory_act": "Kenya Data Protection Act (KDPA) 2019",
+    "lawful_basis_labels": "Teaching Field - Legal Review Pending",
+    "data_minimization_strategy": "SHA-256 payload hashing combined with token stripping"
   }
 }
