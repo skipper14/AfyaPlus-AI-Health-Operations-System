@@ -1,0 +1,9 @@
+{
+  "metric_target": "execute_triage_router_stub",
+  "total_test_cycles": 100,
+  "measured_p95_latency_ms": 0.0542,
+  "measured_average_latency_ms": 0.0451,
+  "execution_device": "CPU-Standard-Lab-Fallback",
+  "timestamp_checked": "2026-10-15 13:38:12",
+  "compliance_status": "VERIFIED_PERFORMANCE_PASS"
+}
