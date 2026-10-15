@@ -1,0 +1,300 @@
+{"symptoms": "[Record ID: 1000] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1001] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1002] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1003] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1004] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1005] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1006] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1007] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1008] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1009] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1010] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1011] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1012] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1013] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1014] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1015] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1016] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1017] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1018] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1019] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1020] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1021] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1022] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1023] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1024] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1025] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1026] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1027] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1028] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1029] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1030] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1031] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1032] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1033] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1034] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1035] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1036] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1037] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1038] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1039] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1040] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1041] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1042] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1043] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1044] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1045] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1046] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1047] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1048] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1049] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1050] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1051] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1052] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1053] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1054] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1055] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1056] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1057] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1058] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1059] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1060] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1061] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1062] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1063] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1064] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1065] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1066] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1067] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1068] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1069] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1070] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1071] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1072] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1073] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1074] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1075] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1076] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1077] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1078] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1079] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1080] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1081] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1082] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1083] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1084] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1085] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1086] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1087] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1088] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1089] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1090] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1091] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1092] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1093] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1094] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1095] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1096] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1097] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1098] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1099] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1100] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1101] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1102] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1103] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1104] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1105] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1106] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1107] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1108] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1109] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1110] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1111] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1112] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1113] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1114] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1115] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1116] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1117] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1118] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1119] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1120] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1121] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1122] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1123] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1124] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1125] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1126] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1127] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1128] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1129] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1130] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1131] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1132] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1133] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1134] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1135] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1136] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1137] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1138] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1139] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1140] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1141] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1142] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1143] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1144] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1145] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1146] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1147] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1148] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1149] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1150] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1151] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1152] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1153] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1154] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1155] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1156] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1157] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1158] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1159] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1160] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1161] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1162] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1163] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1164] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1165] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1166] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1167] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1168] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1169] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1170] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1171] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1172] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1173] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1174] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1175] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1176] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1177] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1178] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1179] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1180] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1181] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1182] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1183] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1184] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1185] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1186] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1187] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1188] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1189] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1190] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1191] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1192] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1193] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1194] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1195] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1196] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1197] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1198] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1199] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1200] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1201] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1202] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1203] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1204] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1205] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1206] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1207] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1208] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1209] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1210] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1211] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1212] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1213] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1214] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1215] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1216] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1217] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1218] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1219] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1220] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1221] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1222] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1223] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1224] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1225] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1226] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1227] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1228] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1229] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1230] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1231] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1232] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1233] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1234] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1235] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1236] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1237] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1238] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1239] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1240] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1241] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1242] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1243] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1244] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1245] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1246] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1247] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1248] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1249] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1250] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1251] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1252] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1253] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1254] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1255] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1256] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1257] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1258] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1259] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1260] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1261] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1262] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1263] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1264] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1265] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1266] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1267] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1268] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1269] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1270] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1271] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1272] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1273] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1274] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1275] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1276] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1277] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1278] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1279] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1280] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1281] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1282] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1283] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1284] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1285] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1286] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1287] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1288] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1289] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1290] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1291] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1292] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1293] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1294] Patient reports high fever and low blood pressure with acute fatigue.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1295] Exhibits dangerous high fever paired with critical low blood pressure.", "expected_category": "RED_ALERT"}
+{"symptoms": "[Record ID: 1296] Severe persistent dry cough accompanied by mild wheezing.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1297] Continuous persistent dry cough reported for three days.", "expected_category": "AMBER_ALERT"}
+{"symptoms": "[Record ID: 1298] Mild scrape on left knee, requires basic cleaning.", "expected_category": "GREEN_CLEAR"}
+{"symptoms": "[Record ID: 1299] Minor localized rash with normal vitals and zero pain.", "expected_category": "GREEN_CLEAR"}
