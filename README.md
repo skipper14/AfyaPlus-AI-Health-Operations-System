@@ -10,10 +10,10 @@ This integrated capstone repository delivers a hardened, production-ready versio
 ## Week reuse (open these)
 - **Weeks 1-5:** Standardized local data containment architecture and dictionary routing stubs.
 - **Week 6:** Public endpoint routing layers managed natively via the `main_pipeline.py` file.
-- **Week 7:** FinOps resource optimization analysis cataloged inside `docs/cost_analysis.md`.
+- **Week 7:** FinOps resource optimization analysis cataloged inside 'cost_analysis.md'.
 - **Week 8:** Explicit model signature version pins documented inside `integration_map.json`.
 - **Week 9:** Log masking infrastructure smoke checks verified via `tests/test_security_smoke.py`.
-- **Week 10:** Operational health-poster data transfer policies mapped inside `fixtures/README.md`.
+- **Week 10:** Operational health-poster data transfer policies mapped inside 'README.md'.
 
 ## Dataset
 - **fixtures/:** Standardized using `fixtures/triage_messages_sample.jsonl` which contains exactly **300 synthetic patient entries**. No external production environments were scraped.
