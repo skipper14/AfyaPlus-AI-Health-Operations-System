@@ -1,21 +1,23 @@
 # AfyaPlus AI Operational Field Manual
 
-### Core Test Verification Command
-To run the automated verification suites across all layers, run this command in your workspace terminal:
-```bash
-python -m pytest -q
-```
+This user guide provides instructions for verifying system status, executing the testing pyramid, interacting with triage endpoints, and generating performance footprints on the **AfyaPlus AI Platform**.
 
-### Interfacing with Application Endpoints
-To verify endpoint functionality, start the platform application layer locally and use curl to test transaction routing:
+---
 
-```bash
-# 1. Health Verification Check
-curl -X GET http://127.0.0
+## 1. Quick Start Health Check
+Query the public health path `GET http://127.0.0` to confirm successful system initialization and loaded model versions.
 
-# 2. Patient Triage Processing Call (Secure Path)
-curl -X POST http://127.0.0 \
-  -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.validtoken" \
-  -H "Content-Type: application/json" \
-  -d '{"role": "clinical_officer", "symptoms": "Patient presents with a high fever and low blood pressure."}'
-```
+---
+
+## 2. Executing the Testing Pyramid
+Run test suites using `pytest` commands to validate security boundaries, unit configurations, integration data fixtures, and infrastructure security smoke suites.
+
+---
+
+## 3. Interfacing with Triage Endpoints
+Send structured JSON payloads to the `/triage` path with role context metadata and symptom strings to test authorized clinical requests or observe injection guard interceptions for malicious prompt overrides.
+
+---
+
+## 4. Generating Local Performance Footprints
+Execute the performance profiler utility (`scripts/measure_perf.py`) to measure processing speeds, record latency metrics, and update system telemetry configurations.
